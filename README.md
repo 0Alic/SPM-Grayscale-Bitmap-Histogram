@@ -48,8 +48,3 @@ for a stream of 50 elements, assigning 4 workers to the farm, 2 workers for the 
 ![TestImage](Data/testld.bmp)
 ### After:
 ![TestImage](Data/bw_testld.bmp)
-
-### Before:
-![TestImage](Data/testhd.bmp)
-### After:
-![TestImage](Data/bw_testhd.bmp)
